@@ -1,0 +1,62 @@
+ .u-section-1 {
+  background-image: url("images/525.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 402px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 331px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 254px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 191px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 120px;
+  }
+} .u-section-2 {
+  background-image: url("images/Logiciels.jpg");
+  background-position: 11.18% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 2210px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1822px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1396px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1047px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 659px;
+  }
+}
