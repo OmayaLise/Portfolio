@@ -55,10 +55,6 @@
 
 .u-section-2 .embed-responsive-1 {
   position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
 }
 
 .u-section-2 .u-text-2 {
@@ -318,10 +314,6 @@
 
 .u-section-4 .embed-responsive-1 {
   position: absolute;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  top: 0;
 }
 
 .u-section-4 .u-text-2 {
@@ -337,11 +329,6 @@
 
   .u-section-4 .u-video-1 {
     height: 434px;
-  }
-
-  .u-section-4 .embed-responsive-1 {
-    left: -39%;
-    top: -39%;
   }
 
   .u-section-4 .u-text-2 {
@@ -492,10 +479,6 @@
 
 .u-section-6 .embed-responsive-1 {
   position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
 }
 
 .u-section-6 .u-text-2 {
